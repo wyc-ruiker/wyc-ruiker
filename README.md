@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyc-ruiker&count_private=true&show_icons=true)
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+[![Yucheng's github stats](https://github-readme-stats.vercel.app/api?username=wyc-ruiker&show_icons=true&include_all_commits=true&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
